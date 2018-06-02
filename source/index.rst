@@ -3,16 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to AntConc Manual's documentation!
+AntConc帮助文档
 ==========================================
 
 .. toctree::
    :maxdepth: 2
    :caption: 目录
 
+   intro
 
-
-关于
-==================
-
-这是关于。
