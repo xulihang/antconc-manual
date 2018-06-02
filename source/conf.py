@@ -21,7 +21,7 @@
 
 project = 'AntConc 帮助文档'
 copyright = '2018, 徐力航 陈佩珊 刘芳 张振娜 张雨宁 '
-author = '徐力航 陈佩珊  刘芳 \n张振娜 张雨宁'
+author = '徐力航 陈佩珊  刘芳 张振娜 张雨宁'
 
 # The short X.Y version
 version = ''
@@ -105,7 +105,7 @@ htmlhelp_basename = 'AntConcManualdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
-latex_engine= 'xelatex'
+latex_engine= 'pdflatex'
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
