@@ -113,6 +113,7 @@ latex_elements = {
 
     # The font size ('10pt', '11pt' or '12pt').
     #
+    latex_engine = 'xelatex',
     # 'pointsize': '10pt',
     'fontpkg':'',
     'fncychap':'',
