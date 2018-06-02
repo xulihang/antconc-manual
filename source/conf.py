@@ -105,7 +105,7 @@ htmlhelp_basename = 'AntConcManualdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
-
+latex_engine='xelatex'
 latex_elements = {
     # The paper size ('letterpaper' or 'a4paper').
     #
@@ -113,7 +113,6 @@ latex_elements = {
 
     # The font size ('10pt', '11pt' or '12pt').
     #
-    latex_engine = 'xelatex',
     # 'pointsize': '10pt',
     'fontpkg':'',
     'fncychap':'',
