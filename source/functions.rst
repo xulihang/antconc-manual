@@ -3,8 +3,8 @@ Functions
 ===========
 
 .. toctree::
-    :maxdepth:1
- 
+
+    concordance.rst
     concordance_plot
     file_view
 
