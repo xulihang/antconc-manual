@@ -1,4 +1,4 @@
-简介
-====
+Introduction
+=============
 
-AntConc是非常棒的一款语料库工具。
+AntConc is a concordance tool.

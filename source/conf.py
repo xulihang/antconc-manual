@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'AntConc 帮助文档'
+project = 'AntConc Manual'
 copyright = '2018, 徐力航 陈佩珊 刘芳 张振娜 张雨宁 '
 author = '徐力航 陈佩珊  刘芳 张振娜 张雨宁'
 
@@ -58,7 +58,7 @@ master_doc = 'index'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = 'zh_CN'
+language = 'en_US'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -119,7 +119,7 @@ latex_elements = {
     # Additional stuff for the LaTeX preamble.
     #
     'preamble': '''
-\\addto\captionsenglish{\\renewcommand{\chaptername}{}}
+%\\addto\captionsenglish{\\renewcommand{\chaptername}{}}%中文章节名用这个
 \usepackage[UTF8, scheme = plain]{ctex}
 ''',
 
@@ -132,7 +132,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'AntConcManual.tex', 'AntConc帮助文档',
+    (master_doc, 'AntConcManual.tex', 'AntConc Manual',
      '徐力航\ 陈佩珊\ 刘芳\ 张振娜\ 张雨宁', 'manual'),
 ]
 
@@ -153,7 +153,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'AntConcManual', 'AntConc帮助文档',
+    (master_doc, 'AntConcManual', 'AntConc Manual',
      author, 'AntConcManual', 'One line description of project.',
      'Miscellaneous'),
 ]
