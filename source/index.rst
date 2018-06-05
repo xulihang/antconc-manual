@@ -8,9 +8,9 @@ AntConc Manual
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
 
    intro
-   concordance_plot
-   file_view
+   functions
+
+
 
