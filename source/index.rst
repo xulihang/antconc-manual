@@ -11,6 +11,7 @@ AntConc Manual
 
    intro
    functions
+   FAQ
 
 
 
