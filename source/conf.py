@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'AntConc Manual'
-copyright = '2018, 徐力航 陈佩珊 刘芳 张振娜 张雨宁 '
-author = '徐力航 陈佩珊  刘芳 张振娜 张雨宁'
+copyright = '2018, Xu Lihang; Chen Peishan; Li Fang; Zhang Zhenna; Zhang Yuning'
+author = 'Xu Lihang; Chen Peishan; Li Fang; Zhang Zhenna; Zhang Yuning'
 
 # The short X.Y version
 version = ''
@@ -114,14 +114,14 @@ latex_elements = {
     # The font size ('10pt', '11pt' or '12pt').
     #
     # 'pointsize': '10pt',
-    'fontpkg':'',
-    'fncychap':'',
+    #'fontpkg':'',
+    #'fncychap':'',
     # Additional stuff for the LaTeX preamble.
     #
-    'preamble': '''
-%\\addto\captionsenglish{\\renewcommand{\chaptername}{}}%中文章节名用这个
-\usepackage[UTF8, scheme = plain]{ctex}
-''',
+    #\\addto\captionsenglish{\\renewcommand{\chaptername}{}}中文章节名用这个
+    #'preamble': '''
+#\usepackage[UTF8, scheme = plain]{ctex}
+#''',
 
     # Latex figure (float) alignment
     #
@@ -133,7 +133,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'AntConcManual.tex', 'AntConc Manual',
-     '徐力航\ 陈佩珊\ 刘芳\ 张振娜\ 张雨宁', 'manual'),
+     'L. Xu\ P. Chen\ F. Liu\ Z. Zhang\ Y. Zhang', 'manual'),
 ]
 
 
