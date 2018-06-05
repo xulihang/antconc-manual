@@ -118,7 +118,10 @@ latex_elements = {
     'fncychap':'',
     # Additional stuff for the LaTeX preamble.
     #
-    'preamble': '''\usepackage[UTF8, scheme = plain]{ctex}''',
+    'preamble': '''
+\\addto\captionsenglish{\\renewcommand{\chaptername}{}}
+\usepackage[UTF8, scheme = plain]{ctex}
+''',
 
     # Latex figure (float) alignment
     #
