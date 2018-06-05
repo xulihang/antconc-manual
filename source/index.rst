@@ -11,4 +11,6 @@ AntConc Manual
    :caption: Contents
 
    intro
+   concordance_plot
+   file_view
 
