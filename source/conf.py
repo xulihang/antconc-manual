@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'AntConc Manual'
-copyright = '2018, Xu Lihang; Chen Peishan; Li Fang; Zhang Zhenna; Zhang Yuning'
-author = 'Xu Lihang; Chen Peishan; Li Fang; Zhang Zhenna; Zhang Yuning'
+copyright = '2018, Xu Lihang; Chen Peishan; Liu Fang; Zhang Zhenna; Zhang Yuning'
+author = 'Xu Lihang; Chen Peishan; Liu Fang; Zhang Zhenna; Zhang Yuning'
 
 # The short X.Y version
 version = ''

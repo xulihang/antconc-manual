@@ -10,8 +10,9 @@ AntConc Manual
    :maxdepth: 2
 
    intro
-   functions
+   tools
    FAQ
+   reference
 
 
 

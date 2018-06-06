@@ -4,7 +4,6 @@ FAQ
 
 Facts about "Antconc"
 ---------------------
-
 .. image:: images/FAQ1.png
 
 
@@ -13,6 +12,7 @@ About Users
 ---------------------
 Tool is suitable for:
 Students/Learners/Consumers   Teachers/Tutors/Managers 	Researchers 
+
 Tool is unsuitable for:
 Developers/Designers 	Organisations/Institutions/Firms 	Others 
 
@@ -26,14 +26,15 @@ The performance of searches can be very slow when the case option is deactivated
 About Shortcuts
 ---------------------
 Here is a list of Shortcuts that apply to all tools using window panes for results.
-CTRL-C (COMMAND-C on Macintosh OS X) = Copies the currently selected text
-CTRL-A (COMMAND-A on Macintosh OS X) = Selects all text in the window pane
-ALT-A (OPTION-A or COMMAND+OPTION-A on Macintosh OS X) = Selects all text in all window panes showing
-Double click = Selects the current word
-Triple click = Selects the current line in the window pane
-SHIFT-click = Selects continuous lines across all window panes showing CTRL-click = Selects discontinuous lines across all window panes showing
-DELETE (BACKSPACE on Macintosh OS X) = This deletes any selected lines that span across all window panes INSERT (SHIFT + BACKSPACE on Macintosh OS X) = This keeps any selected lines that span across all window panes, and deletes all others
-For any 'spinbox' widgets (e.g. the search term entry box) the 'UP' and 'DOWN' arrow keys on the keyboard can be used to activate the up and down buttons.
+
+1. CTRL-C (COMMAND-C on Macintosh OS X) = Copies the currently selected text
+2. CTRL-A (COMMAND-A on Macintosh OS X) = Selects all text in the window pane
+3. ALT-A (OPTION-A or COMMAND+OPTION-A on Macintosh OS X) = Selects all text in all window panes showing
+4. Double click = Selects the current word
+5. Triple click = Selects the current line in the window pane
+6. SHIFT-click = Selects continuous lines across all window panes showing CTRL-click = Selects discontinuous lines across all window panes showing
+7. DELETE (BACKSPACE on Macintosh OS X) = This deletes any selected lines that span across all window panes INSERT (SHIFT + BACKSPACE on Macintosh OS X) = This keeps any selected lines that span across all window panes, and deletes all others
+8. For any 'spinbox' widgets (e.g. the search term entry box) the 'UP' and 'DOWN' arrow keys on the keyboard can be used to activate the up and down buttons.
 
 
 Saving Results
@@ -42,7 +43,7 @@ Results can be saved to the clipboard, saved to a text file (.txt), saved to a p
 
 
 Comments/Suggestions/Bug Fixes
------------------------------------
+-------------------------------
 All new editions and bug fixes are listed in the revision history below. However, if you find a bug in the program, or has any suggestions for improving the program, please let me know and I will try to address the issues in a future version. Indeed, the revisions that have been made are largely due to the comments of users around the world, for which I am very grateful.
 
 
